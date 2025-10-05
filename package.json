@@ -1,6 +1,6 @@
 {
-  "name": "mc-bot",
-  "version": "1.0.0",
+  "name": "shuvo",
+  "version": "1.20.1",
   "main": "index.js",
   "dependencies": {
     "mineflayer": "^4.0.0",

@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 const autoAuth = require('mineflayer-auto-auth');
 const schedule = require('node-schedule');
 
-const SERVER_IP = 'YOUR_SERVER_IP';
-const USERNAME = 'YOUR_USERNAME';
-const PASSWORD = 'YOUR_PASSWORD';
+const SERVER_IP = 'sifathossensuvo.aternos.me';
+const USERNAME = 'shuvo';
+const PASSWORD = 'shuvo123';
 
 function createBot() {
   const bot = mineflayer.createBot({
